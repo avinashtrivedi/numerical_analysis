@@ -51,7 +51,7 @@ The obtained hyperparameter values were as follows:
 - 'tuner/round': 0
 
 7. After that the model was trained using training set with the obtained hyperparameter.
-![Model Architecture](Resources/model_img.png)
+![Model Architecture](model_img.png)
 
 8. The trained model was evaluated on test set, and it gave 94% accuracy.
 
