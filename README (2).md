@@ -50,7 +50,7 @@ The obtained hyperparameter values were as follows:
 
 7. After that the model was trained using training set with the obtained hyperparameter.
 
-![Model Architecture](arch.png)
+![Model Architecture](aa.drawio.png)
 
 8. The trained model was evaluated on test set, and it gave 94% accuracy.
 9. Model is saved for future use.
